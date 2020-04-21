@@ -4,9 +4,22 @@ This is a game where you are tied to a motion bomb.
 You better start running because if you slow down for too long you will explode.
 Keep yourself alive :)
 ___
-Made for LudemDare 46
+### **Controls**
+| Key   | Action |
+| ------|--------|
+| Mouse | Move   |
+| A,D   | Strafe |
+| C     | Crouch |
+| SPACE | Jump   |
+___
+### **Instructions**
+Keep running and maintin your speed otherwise the bomb will start to go off as you lose health.
 
-Theme: Keep it Alive
+Collect the energy drink to increase stamina otherwise you'll slow down.
+___
+Made for **LudemDare 46**
+
+Theme: **Keep it Alive**
 ___
 ### Accreditation
 
