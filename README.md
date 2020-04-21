@@ -17,9 +17,9 @@ Keep running and maintin your speed otherwise the bomb will start to go off as y
 
 Collect the energy drink to increase stamina otherwise you'll slow down.
 ___
-Made for LudemDare 46
+Made for **LudemDare 46**
 
-Theme: Keep it Alive
+Theme: **Keep it Alive**
 ___
 ### Accreditation
 
