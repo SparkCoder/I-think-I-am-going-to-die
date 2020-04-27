@@ -13,7 +13,7 @@ ___
 | SPACE | Jump   |
 ___
 ### **Instructions**
-Keep running and maintin your speed otherwise the bomb will start to go off as you lose health.
+Keep running and maintain your speed otherwise the bomb will start to go off as you lose health.
 
 Collect the energy drink to increase stamina otherwise you'll slow down.
 ___
