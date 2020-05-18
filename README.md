@@ -19,7 +19,7 @@ Collect the energy drink to increase stamina otherwise you'll slow down.
 
 If you stop and the health bar drops to zero, the bomb explodes and you die.
 
-Keep running to get the highest score possible
+Keep running to get the highest score possible.
 ___
 Made for **LudemDare 46**
 
